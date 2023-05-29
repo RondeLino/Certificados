@@ -6,7 +6,7 @@ Este repositório contém certificados relacionados à área de Tecnologia da In
 
 Aqui estão alguns dos certificados disponíveis neste repositório:
 
-- [Certificado 1](caminho/para/certificado1.pdf)
+- [Certificado 1](https://github.com/RondeLino/Certificados/blob/master/rondenelle-Lino-Javascript-40-Horas-Certificado-Curso-em-Video.pdf)
 - [Certificado 2](caminho/para/certificado2.pdf)
 - [Certificado 3](caminho/para/certificado3.pdf)
 
